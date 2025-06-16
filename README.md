@@ -2,9 +2,13 @@
 ## Project Objective
 To perform a comprehensive grocery sales analysis for Blinkit using SQL, Python, and Power BI independently, with the goal of uncovering actionable insights related to customer preferences, category-level sales trends, and inventory distribution.
 ## Tools & Technologies
-- **SQL (SQL Server)** – Data querying, filtering, aggregations, joins, and window functions  
-- **Python (Pandas, Matplotlib, Seaborn, NumPy)** – Data cleaning, EDA, and visualizations  
+
+- **SQL (SQL Server)** – Data querying, filtering, aggregations, joins, and window functions
+  
+- **Python (Pandas, Matplotlib, Seaborn, NumPy)** – Data cleaning, EDA, and visualizations
+    
 - **Power BI** – Interactive dashboards with slicers, filters, and KPI cards
+  
 ## KPIs
 **Total Sales Revenue** – Overall income generated from grocery orders
 **Average Sales per Transaction** – Mean revenue per individual order
