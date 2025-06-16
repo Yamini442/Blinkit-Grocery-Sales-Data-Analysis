@@ -10,13 +10,21 @@ To perform a comprehensive grocery sales analysis for Blinkit using SQL, Python,
 - **Power BI** – Interactive dashboards with slicers, filters, and KPI cards
   
 ## KPIs
+
 **Total Sales Revenue** – Overall income generated from grocery orders
+
 **Average Sales per Transaction** – Mean revenue per individual order
+
 **Total Quantity Sold** – Number of grocery items sold
+
 **Top-Selling Products** – Products with highest revenue and volume
+
 **Average Product Rating** – Reflects customer satisfaction
+
 **Sales by Category** – Revenue contribution segmented by product category
+
 **Sales by Fat Content** – Insights into customer preferences by fat levels
+
 ## Process
 **Data Preparation**: Cleaned and structured the dataset using SQL and Python (pandas).
 **SQL Analysis**: Extracted key KPIs and trends using aggregation, filtering, and joins.
